@@ -70,7 +70,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">About Me</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p>I am an organized, detail-oriented, and hard working graduate from Okanagan College with a Bachelor's Degree in Computer Information Systems.  Last summer I instructed several camps for Camp OC including tech related camps such as a Minecraft Mod camp and a Web Design camp. Previous experience includes two years in the financial industry and eight years in construction as a sheet metal worker. I am passionate about continuing to develop my skills as a programmer and I am enthusiastic to start my career. 
+    <p style="font-size: 20px">I am an organized, detail-oriented, and hard working graduate from Okanagan College with a Bachelor's Degree in Computer Information Systems.  Last summer I instructed several camps for Camp OC including tech related camps such as a Minecraft Mod camp and a Web Design camp. Previous experience includes two years in the financial industry and eight years in construction as a sheet metal worker. I am passionate about continuing to develop my skills as a programmer and I am enthusiastic to start my career. 
     </p>
     <br>
     <!-- Download Resume -->
